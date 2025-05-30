@@ -26,7 +26,7 @@ public class ProductsController : ControllerBase
     }
 
     [HttpPut("{id}")]
-    public async Task<IActionResult> Update(int id, Product product)
+    public async Task<IActionResult> Update(string id, Product product)
     {
         if (id != product.ProductId) return BadRequest();
         return Ok(await _repo.UpdateAsync(product));

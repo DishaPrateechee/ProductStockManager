@@ -1,8 +1,8 @@
 using ProductStockManager.Infrastructure;
 using ProductStockManager.Core;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.InMemory;
 using NUnit.Framework;
+using System.Threading.Tasks;
 
 namespace ProductStockManager.Tests;
 

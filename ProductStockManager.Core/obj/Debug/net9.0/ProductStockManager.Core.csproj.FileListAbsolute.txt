@@ -9,3 +9,4 @@ C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\refint\ProductStockManager.Core.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\ProductStockManager.Core.pdb
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\ref\ProductStockManager.Core.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\ProductStockManager.Core.sourcelink.json
