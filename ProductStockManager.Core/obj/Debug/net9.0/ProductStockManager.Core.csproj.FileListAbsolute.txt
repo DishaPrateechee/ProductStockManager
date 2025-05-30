@@ -1,0 +1,11 @@
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\bin\Debug\net9.0\ProductStockManager.Core.deps.json
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\bin\Debug\net9.0\ProductStockManager.Core.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\bin\Debug\net9.0\ProductStockManager.Core.pdb
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\ProductStockManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\ProductStockManager.Core.AssemblyInfoInputs.cache
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\ProductStockManager.Core.AssemblyInfo.cs
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\ProductStockManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\ProductStockManager.Core.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\refint\ProductStockManager.Core.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\ProductStockManager.Core.pdb
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Core\obj\Debug\net9.0\ref\ProductStockManager.Core.dll

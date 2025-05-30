@@ -1,0 +1,15 @@
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\bin\Debug\net9.0\ProductStockManager.Infrastructure.deps.json
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\bin\Debug\net9.0\ProductStockManager.Infrastructure.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\bin\Debug\net9.0\ProductStockManager.Infrastructure.pdb
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\bin\Debug\net9.0\ProductStockManager.Core.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\bin\Debug\net9.0\ProductStockManager.Core.pdb
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductStockManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductStockManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductStockManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductStockManager.Infrastructure.AssemblyInfo.cs
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductStockManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductS.B292A6D1.Up2Date
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductStockManager.Infrastructure.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\refint\ProductStockManager.Infrastructure.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductStockManager.Infrastructure.pdb
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ref\ProductStockManager.Infrastructure.dll

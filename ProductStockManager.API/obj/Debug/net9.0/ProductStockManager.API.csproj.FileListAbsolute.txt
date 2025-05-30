@@ -1,0 +1,7 @@
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.API\obj\Debug\net9.0\ProductStockManager.API.csproj.AssemblyReference.cache
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.API\obj\Debug\net9.0\ProductStockManager.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.API\obj\Debug\net9.0\ProductStockManager.API.AssemblyInfoInputs.cache
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.API\obj\Debug\net9.0\ProductStockManager.API.AssemblyInfo.cs
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.API\obj\Debug\net9.0\ProductStockManager.API.csproj.CoreCompileInputs.cache
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.API\obj\Debug\net9.0\ProductStockManager.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.API\obj\Debug\net9.0\ProductStockManager.API.MvcApplicationPartsAssemblyInfo.cache
