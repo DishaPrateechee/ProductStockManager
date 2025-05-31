@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductStockManager.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea41a40cd6e8f1cffdb8fb7e18eccedcadc38051")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c823c9a3c282845c11753176c9d501433acad03")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductStockManager.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductStockManager.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
