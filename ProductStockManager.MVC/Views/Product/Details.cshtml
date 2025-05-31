@@ -1,0 +1,9 @@
+@model ProductStockManager.Core.Product
+<h2>Product Details</h2>
+<div>
+    <p><strong>ID:</strong> @Model.ProductId</p>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Description:</strong> @Model.Description</p>
+    <p><strong>Stock:</strong> @Model.StockAvailable</p>
+</div>
+<a href="/Product/Index">Back</a>

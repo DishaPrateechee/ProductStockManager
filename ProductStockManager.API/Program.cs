@@ -1,6 +1,6 @@
+using Microsoft.EntityFrameworkCore;
 using ProductStockManager.Core;
 using ProductStockManager.Infrastructure;
-using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,12 +13,23 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ProductContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Register Repository
+// Register repository
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
+// Add CORS policy for MVC frontend (adjust origin/port as needed)
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowMvcClient", policy =>
+    {
+        policy.WithOrigins("https://localhost:5001")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
 var app = builder.Build();
 
-// Configure middleware
+// Middleware configuration
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -26,7 +37,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors("AllowMvcClient");
 app.UseAuthorization();
+
 app.MapControllers();
 
 app.Run();

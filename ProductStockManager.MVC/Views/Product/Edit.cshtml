@@ -1,0 +1,12 @@
+@model ProductStockManager.Core.Product
+<h2>Edit Product</h2>
+<form asp-action="Edit">
+    <input type="hidden" asp-for="ProductId" />
+    <label>Name</label>
+    <input asp-for="Name" />
+    <label>Description</label>
+    <input asp-for="Description" />
+    <label>Stock</label>
+    <input asp-for="StockAvailable" type="number" />
+    <button type="submit">Save</button>
+</form>
