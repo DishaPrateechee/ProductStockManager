@@ -19,7 +19,7 @@ public class ProductsController : ControllerBase
     }
 
     [HttpPost]
-    public async Task<IActionResult> Create(Product product)
+    public async Task<IActionResult> Create([FromBody] Product product)
     {
         var result = await _repo.AddAsync(product);
         return CreatedAtAction(nameof(GetById), new { id = result.ProductId }, result);

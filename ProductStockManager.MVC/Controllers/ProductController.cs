@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using ProductStockManager.Core;
 using System.Net.Http;
 using System.Net.Http.Json;
@@ -8,6 +9,7 @@ namespace ProductStockManager.MVC.Controllers
     public class ProductController : Controller
     {
         private readonly HttpClient _client;
+        private static readonly Random rand = new Random();
 
         public ProductController(IHttpClientFactory httpClientFactory)
         {
@@ -31,8 +33,14 @@ namespace ProductStockManager.MVC.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Product product)
         {
+            product.ProductId = GenerateUniqueId();
             var response = await _client.PostAsJsonAsync("api/products", product);
-            if (response.IsSuccessStatusCode) return RedirectToAction(nameof(Index));
+            if (response.IsSuccessStatusCode)
+            {
+                ViewBag.Message = "Product created successfully!";
+                ModelState.Clear(); // Clear the model state to prevent resubmission
+                return RedirectToAction(nameof(Index));
+            }
             return View(product);
         }
 
@@ -67,5 +75,11 @@ namespace ProductStockManager.MVC.Controllers
             var response = await _client.PutAsync($"api/products/decrement-stock/{id}/{qty}", null);
             return RedirectToAction(nameof(Index));
         }
+        
+        private string GenerateUniqueId()
+    {
+        int pId = rand.Next(100000, 999999);
+        return pId.ToString();
+    }
     }
 }

@@ -5,6 +5,7 @@ using ProductStockManager.Infrastructure;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
+
 builder.Services.AddHttpClient("ProductApi", client =>
 {
     client.BaseAddress = new Uri("https://localhost:5001/"); // adjust API URL

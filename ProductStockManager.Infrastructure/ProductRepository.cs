@@ -23,7 +23,6 @@ public class ProductRepository : IProductRepository
 
     public async Task<Product> AddAsync(Product product)
     {
-        product.ProductId = GenerateUniqueId();
         _context.Products.Add(product);
         await _context.SaveChangesAsync();
         return product;
@@ -63,10 +62,5 @@ public class ProductRepository : IProductRepository
         return true;
     }
 
-    private string GenerateUniqueId()
-    {
-        var ticks = DateTime.UtcNow.Ticks;
-        var rand = new Random().Next(100000, 999999);
-        return (ticks.ToString() + rand).Substring(0, 6);
-    }
+    
 }

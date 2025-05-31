@@ -21,7 +21,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowMvcClient", policy =>
     {
-        policy.WithOrigins("https://localhost:5001")
+        policy.WithOrigins("https://localhost:5002")
               .AllowAnyHeader()
               .AllowAnyMethod();
     });

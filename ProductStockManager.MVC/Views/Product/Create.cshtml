@@ -1,5 +1,13 @@
 @model ProductStockManager.Core.Product
 <h2>Create Product</h2>
+
+@if(ViewBag.SuccessMessage != null)
+{
+    <div class="alert alert-success">
+        @ViewBag.SuccessMessage
+    </div>
+}
+
 <form asp-action="Create">
     <label>Name</label>
     <input asp-for="Name" />
