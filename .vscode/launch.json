@@ -38,6 +38,19 @@
       "env": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    {
+      "name": "Test App",
+      "type": "coreclr",
+      "request": "launch",
+      //"preLaunchTask": "build",
+      "program": "${workspaceFolder}/ProductStockManager.Tests/bin/Debug/net9.0/ProductStockManager.Tests.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/ProductStockManager.Tests",
+      "stopAtEntry": false,
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
     }
     ]
 }

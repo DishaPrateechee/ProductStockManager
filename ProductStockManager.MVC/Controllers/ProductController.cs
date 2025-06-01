@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using ProductStockManager.Core;
 using System.Net.Http;
 using System.Net.Http.Json;
+using ProductStockManager.Core.Utilities;
 
 namespace ProductStockManager.MVC.Controllers
 {
@@ -33,7 +34,7 @@ namespace ProductStockManager.MVC.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Product product)
         {
-            product.ProductId = GenerateUniqueId();
+            product.ProductId = UniqueIdGenerator.Generate(); // Generate a unique ID for the product
             var response = await _client.PostAsJsonAsync("api/products", product);
             if (response.IsSuccessStatusCode)
             {
