@@ -325,10 +325,16 @@ C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
@@ -404,7 +410,9 @@ C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\ProductStockManager.MVC.RazorAssemblyInfo.cache
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\ProductStockManager.MVC.RazorAssemblyInfo.cs
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\ProductStockManager.MVC.sourcelink.json
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\scopedcss\bundle\ProductStockManager.MVC.styles.css
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\scopedcss\projectbundle\ProductStockManager.MVC.bundle.scp.css
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\compressed\ibb7ksrbd7-b9sayid5wm.gz
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\compressed\ww44beyrda-61n19gt1b8.gz
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\compressed\ykno2yppip-xtxxf3hu2r.gz
@@ -467,6 +475,8 @@ C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\compressed\eayjw5go1y-muycvpuwrr.gz
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\compressed\ajzswk3445-87fc7y1x7t.gz
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\compressed\5opzo0jm5k-mlv21k5csn.gz
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\compressed\q9ttry87nn-ukvtlrh5m6.gz
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\compressed\nxq9szl4ww-ukvtlrh5m6.gz
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\staticwebassets.development.json
@@ -477,7 +487,3 @@ C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\ProductStockManager.MVC.pdb
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\ProductStockManager.MVC.genruntimeconfig.cache
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\ref\ProductStockManager.MVC.dll
-C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\scopedcss\projectbundle\ProductStockManager.MVC.bundle.scp.css
-C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\compressed\q9ttry87nn-ukvtlrh5m6.gz
-C:\Users\dprateechee\ProductStockManager\ProductStockManager.MVC\obj\Debug\net9.0\compressed\nxq9szl4ww-ukvtlrh5m6.gz

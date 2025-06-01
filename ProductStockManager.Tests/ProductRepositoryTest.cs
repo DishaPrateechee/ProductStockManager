@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using NUnit.Framework;
 using ProductStockManager.Core;
 using ProductStockManager.Infrastructure;
-using ProductStockManager.Tests.TestData; // Import the factory
+using ProductStockManager.Tests.TestData;
 using System.Threading.Tasks;
 
 namespace ProductStockManager.Tests;

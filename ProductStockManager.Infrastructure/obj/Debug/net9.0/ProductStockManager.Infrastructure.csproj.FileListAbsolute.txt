@@ -1,4 +1,5 @@
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\bin\Debug\net9.0\ProductStockManager.Infrastructure.deps.json
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\bin\Debug\net9.0\ProductStockManager.Infrastructure.runtimeconfig.json
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\bin\Debug\net9.0\ProductStockManager.Infrastructure.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\bin\Debug\net9.0\ProductStockManager.Infrastructure.pdb
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\bin\Debug\net9.0\ProductStockManager.Core.dll
@@ -13,4 +14,5 @@ C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductStockManager.Infrastructure.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\refint\ProductStockManager.Infrastructure.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductStockManager.Infrastructure.pdb
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ProductStockManager.Infrastructure.genruntimeconfig.cache
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Infrastructure\obj\Debug\net9.0\ref\ProductStockManager.Infrastructure.dll

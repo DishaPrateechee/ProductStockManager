@@ -36,10 +36,16 @@ C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\dprateechee\ProductStockManager\ProductStockManager.Tests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
